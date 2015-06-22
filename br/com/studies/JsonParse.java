@@ -10,7 +10,7 @@ import org.json.simple.parser.ParseException;
 
 public class JsonParse {
 
-	private static String jsonFile = "C:\\Users\\Fabio\\Desktop\\json.json";
+	private static String jsonFile = "C:\\...\\sources\\json\\json.json";
 	public static void main(String[] args) {
 		try {		
 			//Here, we will read the file
